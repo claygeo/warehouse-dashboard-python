@@ -1,0 +1,6 @@
+pandas==2.2.0
+supabase==2.3.0
+python-barcode==0.15.1
+reportlab==4.0.8
+Pillow==10.2.0
+configparser==6.0.0
