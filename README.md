@@ -58,7 +58,7 @@ Follow prompts to import components.csv into Supabase.
 
 Notes
 
-- This Python suite was a prototype to showcase warehouse inventory management to managers, later replaced by a JavaScript-based version (e.g., WarehouseVision).
+- This Python suite was a prototype to showcase warehouse inventory management to managers, later replaced by a JavaScript-based version (e.g., warehouse-inventory-manager).
 - The components.csv file contains Curaleaf-specific data; permission was granted.
 - The default admin PIN for cycle counts is 0000 (modify in cycle_count_dashboard.py if needed).
 - Generated PDF labels are saved with timestamps (e.g., barcode_labels_20250507.pdf).
