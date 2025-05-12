@@ -20,8 +20,9 @@ components.csv file with component data (ID, Description)
 ## Setup
 
 1. Clone the Repository:
-git clone https://github.com/your-username/warehouse-dashboard-python.git
-cd warehouse-dashboard-python
+git clone https://github.com/claygeo/warehouse-dashboard-python.git
+
+2. Navigate to Project Directory: cd warehouse-dashboard-python
 
 2. Install Python Packages:
 pip install pandas supabase python-barcode pillow reportlab
